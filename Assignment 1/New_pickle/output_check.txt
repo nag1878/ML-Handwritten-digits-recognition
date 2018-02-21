@@ -1,0 +1,182 @@
+lambdaval    :0
+number of hidden layers     :50
+comp_training    :94.192
+comp_validation     :93.6
+comp_test    :93.9
+ no.of itr   :99
+ time taken  :67.75093412399292
+
+
+
+
+
+
+
+lambdaval    :5
+number of hidden layers     :50
+comp_training    :94.648
+comp_validation     :94.14
+comp_test    :94.34
+ no.of itr   :100
+ time taken  :68.4170150756836
+
+
+
+
+
+
+
+lambdaval    :10
+number of hidden layers     :50
+comp_training    :94.268
+comp_validation     :93.95
+comp_test    :93.65
+ no.of itr   :101
+ time taken  :68.91624236106873
+
+
+
+
+
+
+
+lambdaval    :15
+number of hidden layers     :50
+comp_training    :94.434
+comp_validation     :94.24
+comp_test    :94.14
+ no.of itr   :100
+ time taken  :68.61820197105408
+
+
+
+
+
+
+
+lambdaval    :20
+number of hidden layers     :50
+comp_training    :93.988
+comp_validation     :93.42
+comp_test    :93.74
+ no.of itr   :101
+ time taken  :69.01244354248047
+
+
+
+
+
+
+
+lambdaval    :25
+number of hidden layers     :50
+comp_training    :94.514
+comp_validation     :93.9
+comp_test    :94.4
+ no.of itr   :98
+ time taken  :67.76050424575806
+
+
+
+
+
+
+
+lambdaval    :30
+number of hidden layers     :50
+comp_training    :93.984
+comp_validation     :93.65
+comp_test    :93.9
+ no.of itr   :99
+ time taken  :68.68645787239075
+
+
+
+
+
+
+
+lambdaval    :35
+number of hidden layers     :50
+comp_training    :93.634
+comp_validation     :93.31
+comp_test    :93.64
+ no.of itr   :103
+ time taken  :72.39352512359619
+
+
+
+
+
+
+
+lambdaval    :40
+number of hidden layers     :50
+comp_training    :93.9
+comp_validation     :93.56
+comp_test    :93.85
+ no.of itr   :99
+ time taken  :70.01077938079834
+
+
+
+
+
+
+
+lambdaval    :45
+number of hidden layers     :50
+comp_training    :94.092
+comp_validation     :93.73
+comp_test    :94.03
+ no.of itr   :102
+ time taken  :71.84516048431396
+
+
+
+
+
+
+
+lambdaval    :50
+number of hidden layers     :50
+comp_training    :93.522
+comp_validation     :93.42
+comp_test    :93.54
+ no.of itr   :101
+ time taken  :76.10553121566772
+
+
+
+
+
+
+
+lambdaval    :55
+number of hidden layers     :50
+comp_training    :93.48
+comp_validation     :93.31
+comp_test    :93.38
+ no.of itr   :98
+ time taken  :85.49193549156189
+
+
+
+
+
+
+
+lambdaval    :60
+number of hidden layers     :50
+comp_training    :93.128
+comp_validation     :92.86
+comp_test    :93.11
+ no.of itr   :100
+ time taken  :85.84099125862122
+
+
+
+
+
+
+

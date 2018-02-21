@@ -1,0 +1,56 @@
+lambdaval    :0
+number of hidden layers     :4
+comp_training    :68.428
+comp_validation     :66.76
+comp_test    :67.19
+ no.of itr   :109
+ time taken  :28.6629998684
+
+
+
+
+
+
+
+lambdaval    :50
+number of hidden layers     :4
+comp_training    :67.642
+comp_validation     :65.51
+comp_test    :67.44
+ no.of itr   :97
+ time taken  :25.4440000057
+
+
+
+
+
+
+
+lambdaval    :0
+number of hidden layers     :4
+comp_training    :70.988
+comp_validation     :69.15
+comp_test    :71.1
+ no.of itr   :99
+ time taken  :26.7899999619
+
+
+
+
+
+
+
+lambdaval    :50
+number of hidden layers     :4
+comp_training    :67.078
+comp_validation     :65.05
+comp_test    :66.61
+ no.of itr   :104
+ time taken  :27.3220000267
+
+
+
+
+
+
+
